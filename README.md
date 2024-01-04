@@ -34,3 +34,5 @@ The Air Quality Monitoring System is an IoT-based solution designed for measurin
 - Talal Muzammil
 
 
+If you encounter any issues or have feedback, please Contact me on the email mehmodulhaq1040@gmail.com
+
