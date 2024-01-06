@@ -25,8 +25,8 @@ This project includes a heat detection system utilizing the DHT11 sensor for tem
 
 ### Features
 
-- **DHT11 Sensor Integration:** Measures temperature and humidity accurately.
-- **Real-time Temperature Data:** Provides continuous temperature updates for monitored areas.
+- **DHT11 Sensor Integration:** Measures temperature and humidity accurately
+- **Real-time Temperature Data:** Provides continuous temperature updates for monitored areas
 
 ### Usage
 
