@@ -1,5 +1,12 @@
 # Air Quality Monitoring System with Heat Detection
 
+## Contributors
+
+- Mehmood Ul Haq
+- Muhammad Shahzaib
+- Kashif Muneer
+- Talal Muzammil
+
 ## Overview
 
 The Air Quality Monitoring System is an IoT-based solution designed to measure and analyze air pollution levels. This repository focuses on integrating Arduino and the ESP module, creating a comprehensive network for air quality and heat monitoring.
@@ -48,11 +55,5 @@ This project includes a heat detection system utilizing the DHT11 sensor for tem
 - Analyze data for insights into air pollution and temperature trends.
 - Implement proactive measures based on observed parameters.
 
-## Contributors
-
-- Mehmood Ul Haq
-- Muhammad Shahzaib
-- Kashif Muneer
-- Talal Muzammil
 
 For issues or feedback, please contact me at mehmodulhaq1040@gmail.com.
